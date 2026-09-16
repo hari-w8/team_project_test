@@ -56,7 +56,7 @@ function App() {
         </div>
 
         <button className="nav-button">
-          Get Started
+          Get in bruh!!!
         </button>
 
       </nav>
